@@ -63,6 +63,48 @@ Once we have established a solid base understanding of the Spotify Streams, we w
 - Quantify Instagram post impact on streaming numbers.
 - Map audience preferences and listening habits.
 
+### **Advanced Statistics:**
+
+#### Regression Model: Quantifying Impact Factors
+A multiple linear regression (or logistic regression for binary outcomes) can help you determine which factors most influence stream growth.
+
+Example Model:
+
+ | Factor Type          | Example Metrics                          | Data Source                     |
+|----------------------|------------------------------------------|---------------------------------|
+| **Song Characteristics** | Danceability, Energy, Valence, Duration | Spotify API (`audio_features`)  |
+| **Social Media**     | TikTok shares, Instagram Reels views     | Instagram/TikTok APIs or manual |
+| **Promotion**        | Playlist adds, PR campaigns              | Spotify for Artists CSV         |
+| **Temporal**         | Release day, seasonality                 | Custom date features            |
+
+#### Time-Series Analysis
+Model how streams evolve post-release using:
+
+ARIMA or Prophet to forecast trends.
+Event studies: Measure impact of promotions (e.g., spikes after TikTok posts).
+
+#### A/B Testing
+**Hypothesis:** "Shorter songs (<2.5 mins) gain more streams."
+**Method:** Compare streams of shortened vs. original tracks.
+
+#### Principal component analysis (PCA)
+Conduct PCA on all the features of each of the songs (Acousticness, danceability, energy, duration, instrumentals, valence, popularity, tempo, and speechines) and find the features of the songs that group well together. - Use these to find good collaborations. 
+ref (https://github.com/datares/TeamPink )
+
+#### Sentiment Analysis (Social Media)
+Use NLP on fan comments (Instagram/TikTok) to:
+Gauge song reception (positive/negative).
+Correlate sentiment with stream retention.
+
+#### Clustering for Audience Segmentation
+Group listeners by behavior (e.g., demographics, streaming patterns) using:
+k-Means or DBSCAN on:
+    Streaming frequency
+    Geographic location
+    Playlist interactions
+**Actionable Insight:**
+Target high-value clusters with tailored ads.
+
 
 ### **Growth Strategy**
 
@@ -70,8 +112,9 @@ Once Analysis has concluded, we can take a data-driven apporach to the Spotify G
 
 - Create strategic public playlists combining original content with complementary tracks.
 - Target compatible playlist curators for placement opportunities.
+- Target Audience 
 - Performing in places where there is good followings.
-- The use of Instagram to grow Streams.
+- The better use of Instagram to grow Streams.
 
 
 
