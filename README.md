@@ -8,6 +8,8 @@ This data analytics initiative aims to help Colombian singer 'La Ramona' signifi
 
 While La Ramona has built a notable Instagram following, this project will focus on understanding her Spotify ecosystem and developing targeted strategies for streaming growth.
 
+<img src="Data/ramona1.jpg"  align=right>
+
 #### Core Objectives
 
 - Conduct in-depth analysis of La Ramona's Spotify streaming metrics: geographical distribution, listener demographics, and playlist inclusion.
