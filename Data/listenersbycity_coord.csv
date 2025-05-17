@@ -1,0 +1,51 @@
+country,city,count,location,lat,lon
+Colombia,Bogotá,1456,"Bogotá, Colombia",4.6534109,-74.0836547
+Colombia,Medellín,328,"Medellín, Colombia",6.2697324,-75.6025597
+Mexico,Mexico City,173,"Mexico City, Mexico",19.3207722,-99.1514678
+Colombia,Santiago de Cali,99,"Santiago de Cali, Colombia",3.4519988,-76.5325259
+Ecuador,Quito,78,"Quito, Ecuador",-0.2201641,-78.5123274
+Mexico,Guadalajara,70,"Guadalajara, Mexico",20.6720375,-103.338396
+Chile,Santiago,65,"Santiago, Chile",-33.4377756,-70.6504502
+Mexico,Puebla City,56,"Puebla City, Mexico",19.0437196,-98.1981486
+Mexico,Gustavo Adolfo Madero,55,"Gustavo Adolfo Madero, Mexico",22.3283422,-97.8776921
+Mexico,Querétaro City,44,"Querétaro City, Mexico",20.5922997,-100.3917424
+Spain,Madrid,43,"Madrid, Spain",40.4167047,-3.7035825
+Mexico,Iztapalapa,41,"Iztapalapa, Mexico",19.3588629,-99.0925404
+Peru,Lima,39,"Lima, Peru",-12.0621065,-77.0365256
+Mexico,Zapopan,39,"Zapopan, Mexico",20.7211203,-103.3913671
+Costa Rica,San José,39,"San José, Costa Rica",9.9325427,-84.0795782
+Colombia,Barranquilla,38,"Barranquilla, Colombia",11.0101922,-74.8231794
+Mexico,Tijuana,38,"Tijuana, Mexico",32.5317397,-117.019529
+Mexico,Cuauhtémoc,38,"Cuauhtémoc, Mexico",19.4326296,-99.1331785
+Colombia,Chía,34,"Chía, Colombia",4.8660334,-74.0306281
+Colombia,Bucaramanga,33,"Bucaramanga, Colombia",7.1669842,-73.1047294
+Mexico,León,33,"León, Mexico",21.121965,-101.6829766
+Mexico,Azcapotzalco,30,"Azcapotzalco, Mexico",19.4838908,-99.1843937
+Spain,Barcelona,30,"Barcelona, Spain",41.3825802,2.177073
+Mexico,Monterrey,25,"Monterrey, Mexico",25.6802019,-100.315258
+Colombia,Pereira,24,"Pereira, Colombia",4.7854606,-75.788322
+Mexico,Mérida,23,"Mérida, Mexico",20.9670759,-89.6237402
+Argentina,Buenos Aires,23,"Buenos Aires, Argentina",-34.6083696,-58.4440583
+Mexico,Miguel Hidalgo,21,"Miguel Hidalgo, Mexico",19.4071156,-99.1906167
+Colombia,Soacha,20,"Soacha, Colombia",4.5827314,-74.211754
+Mexico,Venustiano Carranza,19,"Venustiano Carranza, Mexico",16.3089843,-92.6379347
+Argentina,Buenos Aires,19,"Buenos Aires, Argentina",-34.6083696,-58.4440583
+Guatemala,Guatemala City,19,"Guatemala City, Guatemala",14.6416142,-90.5132836
+United States,Chicago,19,"Chicago, United States",41.8755616,-87.6244212
+Mexico,Toluca,17,"Toluca, Mexico",19.292545,-99.6569007
+United States,Miami,17,"Miami, United States",25.7741728,-80.19362
+Ecuador,Guayaquil,16,"Guayaquil, Ecuador",-2.2895167,-80.0983887
+Colombia,Tunja,15,"Tunja, Colombia",5.5324313,-73.3616014
+Bolivia,La Paz,15,"La Paz, Bolivia",-16.4955455,-68.1336229
+Colombia,Villavicencio,15,"Villavicencio, Colombia",4.1347644,-73.6201517
+United States,Los Angeles,15,"Los Angeles, United States",34.0536909,-118.242766
+Australia,Melbourne,14,"Melbourne, Australia",-37.8142454,144.9631732
+Mexico,Cuautitlán Izcalli,14,"Cuautitlán Izcalli, Mexico",19.6531356,-99.2145002
+Mexico,Aguascalientes,14,"Aguascalientes, Mexico",21.880487,-102.2967195
+Colombia,Ibagué,13,"Ibagué, Colombia",4.4386033,-75.2108857
+Mexico,Oaxaca City,13,"Oaxaca City, Mexico",17.0604663,-96.7253575
+Mexico,Chihuahua City,13,"Chihuahua City, Mexico",28.6368669,-106.076745
+Mexico,Tuxtla Gutiérrez,13,"Tuxtla Gutiérrez, Mexico",16.753801,-93.115959
+Mexico,Álvaro Obregón,13,"Álvaro Obregón, Mexico",19.3906515,-99.1952423
+Mexico,Iztacalco,13,"Iztacalco, Mexico",19.3957447,-99.097453
+United Kingdom,London,12,"London, United Kingdom",51.4893335,-0.1440551
