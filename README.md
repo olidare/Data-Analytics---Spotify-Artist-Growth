@@ -10,7 +10,6 @@ While La Ramona has built a notable Instagram following, this project will focus
 
 
 
-
 #### Core Objectives
 
 - Conduct in-depth analysis of La Ramona's Spotify streaming metrics: geographical distribution, listener demographics, and playlist inclusion.
@@ -53,6 +52,24 @@ In this Notebook we will import the Spotify .csvs, from here we will get a bette
 - Timeline of Follower history.
 - Discover the Geographic distribution of Tracks.
 - Peak Streaming days.
+
+### **Growth Strategy**
+
+Once Analysis has concluded, we can take a data-driven apporach to the Spotify Growth Strategy.
+
+- Create strategic public playlists combining original content with complementary tracks.
+- Target compatible playlist curators for placement opportunities.
+- Target Audience 
+- Performing in places where there is good followings.
+- The better use of Instagram to grow Streams.
+
+
+
+
+--- 
+
+# Update June 2025
+Sadly Spotify has reduced API access (https://developer.spotify.com/blog/2025-04-15-updating-the-criteria-for-web-api-extended-access), currently without the API lots of the more advanced statistical analysis won't be possible with the data we have.
 
 ### **Advanced Data Analysis**
 
@@ -104,17 +121,6 @@ k-Means or DBSCAN on:
     Playlist interactions
 **Actionable Insight:**
 Target high-value clusters with tailored ads.
-
-
-### **Growth Strategy**
-
-Once Analysis has concluded, we can take a data-driven apporach to the Spotify Growth Strategy.
-
-- Create strategic public playlists combining original content with complementary tracks.
-- Target compatible playlist curators for placement opportunities.
-- Target Audience 
-- Performing in places where there is good followings.
-- The better use of Instagram to grow Streams.
 
 
 
