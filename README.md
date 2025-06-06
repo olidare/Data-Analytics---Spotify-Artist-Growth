@@ -64,12 +64,13 @@ Once Analysis has concluded, we can take a data-driven apporach to the Spotify G
 - The better use of Instagram to grow Streams.
 
 
-
-
 --- 
 
 # Update June 2025
 Sadly Spotify has reduced API access (https://developer.spotify.com/blog/2025-04-15-updating-the-criteria-for-web-api-extended-access), currently without the API lots of the more advanced statistical analysis won't be possible with the data we have.
+
+To move forward we will try to pull in more social media data from TikTok, Instagram & Youtube to gain further insights.
+
 
 ### **Advanced Data Analysis**
 
